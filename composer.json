@@ -1,0 +1,16 @@
+{
+    "name": "loic/projet",
+    "description": "Aprrentissage du php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Loic Fournerat",
+            "email": "loic.fournerat@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zend-feed": "^2.9",
+        "zendframework/zend-http": "^2.7",
+        "symfony/yaml": "^4.0"
+    }
+}
